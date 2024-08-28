@@ -17,6 +17,9 @@ This project aims to design a data warehouse for a DVD rental service using a st
      
 2. [Explain the ERD (Entity-Relationship Diagram)](#2-explain-the-erd-entity-relationship-diagram)
    - A detailed description of the ERD, highlighting the relationships between entities in the DVD rental database.
+  
+   ![Uploading Screenshot from 2024-08-23 17-53-11.png…]()
+
 
 3. [Define the Star Schema](#3-define-the-star-schema)
    - Explanation of the star schema structure, including the identification of the fact table and dimension tables.
