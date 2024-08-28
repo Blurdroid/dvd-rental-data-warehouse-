@@ -10,8 +10,8 @@ This project aims to design a data warehouse for a DVD rental service using a st
    - Instructions to download the dataset and unzip it.
    - Steps to import the database into PostgreSQL using the terminal, including host, password, and database name.
 
-     file:///home/ziad/Pictures/Screenshots/Screenshot%20from%202024-08-22%2011-21-33.png
 
+![Screenshot from 2024-08-22 11-21-33](https://github.com/user-attachments/assets/93e2e4ff-e360-4ff3-bb0f-f13a55ef80a8)
 
 
      
