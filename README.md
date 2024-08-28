@@ -1,5 +1,4 @@
 # dvd-rental-data-warehouse-
-Certainly! Below is a structured README file with a Table of Contents that maps directly to the content sections for your DVD rental database project. Each section is linked to its respective content for easy navigation.
 
 ## Project Overview
 
@@ -11,6 +10,11 @@ This project aims to design a data warehouse for a DVD rental service using a st
    - Instructions to download the dataset and unzip it.
    - Steps to import the database into PostgreSQL using the terminal, including host, password, and database name.
 
+     file:///home/ziad/Pictures/Screenshots/Screenshot%20from%202024-08-22%2011-21-33.png
+
+
+
+     
 2. [Explain the ERD (Entity-Relationship Diagram)](#2-explain-the-erd-entity-relationship-diagram)
    - A detailed description of the ERD, highlighting the relationships between entities in the DVD rental database.
 
